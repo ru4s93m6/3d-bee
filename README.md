@@ -2,7 +2,7 @@
 
 This is a website inspired by Lun Dev, mainly created to practice Three.js.
 
-[LIVESITE DEMO]('https://bee-steel.vercel.app/')
+[LIVE SITE DEMO](https://bee-steel.vercel.app/)
 
 ## Skill used:
 
